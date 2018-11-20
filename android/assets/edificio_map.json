@@ -1,0 +1,82 @@
+{
+	"model": "MODEL_BUILDING1_1",
+	"floor": [
+	{ "floor": 3,
+		"part": [
+		{ "part": 1, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING1_FLOOR3_PART1"
+		}
+		]
+	}
+	{ "floor": 2,
+		"part": [
+		{ "part": 1, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING1_FLOOR2_PART1"
+		}
+		]
+	}
+	{ "floor": 1,
+		"part": [
+		{ "part": 1,
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING1_FLOOR1_PART1"
+		}
+		{ "part": 2,
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING1_FLOOR1_PART2"
+		}
+		]
+	}
+	],
+	"point": [
+		/* de 3 piso a 2 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 166.0, "y": 131.0, "z": -666.0}
+			,"dimension":{"x": 4.0, "y": 36.0, "z": 38.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 148.0, "y": 133.0, "z": -696.0}
+			,"dimension":{"x": 50.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":3
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 196.0, "y": 121.0, "z": -688.0}
+			,"dimension":{"x": 44.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":2
+			,"part":1}
+		/* de 2 piso a 1 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 166.0, "y": 66.0, "z": -666.0}
+			,"dimension":{"x": 4.0, "y": 36.0, "z": 38.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 148.0, "y": 68.0, "z": -696.0}
+			,"dimension":{"x": 50.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":2
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 196.0, "y": 56, "z": -688.0}
+			,"dimension":{"x": 44.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":1
+			,"part":1}
+		/* entre 1 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 539.0, "y": 32.0, "z": -982.0}
+			,"dimension":{"x": 70.0, "y": 36.0, "z": 4.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 529.0, "y": 32.0, "z": -969.9}
+			,"dimension":{"x": 70.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":1
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 550.0, "y": 32.0, "z": -996.0}
+			,"dimension":{"x": 70.0, "y": 36.0, "z": 4.0}
+			,"rotation":0
+			,"floor":1
+			,"part":2}
+	]
+}

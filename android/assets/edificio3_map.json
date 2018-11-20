@@ -1,0 +1,12 @@
+{
+	"model": "MODEL_BUILDING3",
+	"floor": [
+	{ "floor": 1,
+		"part": [
+		{ "part": 1,
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING3_FLOOR1_PART1"
+		}
+		]
+	}
+	]
+}

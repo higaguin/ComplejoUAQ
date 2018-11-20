@@ -1,0 +1,102 @@
+{
+	"model": "MODEL_BUILDING2",
+	"floor": [
+	{ "floor": 1,
+		"part": [
+		{ "part": 1, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING2_FLOOR1_PART1"
+		} 
+		{ "part": 2, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING2_FLOOR1_PART2"
+		}
+		] 
+	}
+	{ "floor": 2,
+		"part": [
+		{ "part": 1, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING2_FLOOR2_PART1"
+		}
+		{ "part": 2, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING2_FLOOR2_PART2"
+		}
+		] 
+	}
+	{ "floor": 3,
+		"part": [
+		{ "part": 1, 
+		"modelFloor" : "MODEL_COMPLEXS_BUILDING2_FLOOR3_PART1"
+		}
+		]
+	}
+	],
+	"point": [
+		/* entre 1 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 17.0, "y": 65.0, "z": 378.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 49.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 32.0, "y": 65.0, "z": 376.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 49.0}
+			,"rotation":0
+			,"floor":1
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": -1.0, "y": 65.0, "z": 377.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 49.0}
+			,"rotation":0
+			,"floor":1
+			,"part":2}
+		/* de 1 a 2 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 29.0, "y": 105.0, "z": 449.0}
+			,"dimension":{"x": 45.0, "y": 36.0, "z": 3.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x":62.000015, "y": 85.0, "z": 510.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 42.0}
+			,"rotation":0
+			,"floor":1
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 104.0, "y": 127.0, "z": 420.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 30.0}
+			,"rotation":0
+			,"floor":2
+			,"part":1}
+		/* entre 2 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": -32.000008, "y": 124.0, "z": 376.99997}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 46.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 2.0000067, "y": 124.0, "z": 375.99997}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 46.0}
+			,"rotation":0
+			,"floor":2
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": -75.0, "y": 124.0, "z": 371.99997}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 46.0}
+			,"rotation":0
+			,"floor":2
+			,"part":2}
+		/* de 2 a 3 piso */
+			{"typePoint":"MIDDLE_POINT"
+			,"position":{"x": 29.0, "y": 169.0, "z": 449.0}
+			,"dimension":{"x": 45.0, "y": 36.0, "z": 3.0}
+			,"rotation":0}
+			{"typePoint":"END_POINT"
+			,"position":{"x":62.000015, "y": 149.0, "z": 510.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 42}
+			,"rotation":0
+			,"floor":2
+			,"part":1}
+			{"typePoint":"END_POINT"
+			,"position":{"x": 104.0, "y": 191.0, "z": 420.0}
+			,"dimension":{"x": 3.0, "y": 36.0, "z": 30.0}
+			,"rotation":0
+			,"floor":3
+			,"part":1}
+		]
+}

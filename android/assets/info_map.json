@@ -1,0 +1,160 @@
+{
+	"info": [
+		{"position":{"x":366.8,"y":168,"z":-764}
+		, "title": "Laboratorios de computo"
+		, "text": "Este piso cuenta con numerosos equipos de computo que le serviran al estudiante en horarios excentos de clases."}
+		{"position":{"x":165.9,"y":134.9,"z":543.9}
+		, "title": "Fe de erratas"
+		, "text": "Es probable que exista una serie de errores, como ejemplo, si se cayera de este piso por la parte derecha o izquierda de este punto, notaría una serie de anomalias que podrían provocar eventualmente un error en la aplicacion."}
+		{"position":{"x":649.1,"y":36.3,"z":-220.0}
+		, "title": "Control escolar"
+		, "text": "En esta parte se realizan tramites y consultas administrativas."}
+		{"position":{"x":1878.9,"y":-72.0,"z":769.0}
+		, "title": "Cafeteria"
+		, "text": "En el edificio de enfrente se encuentra la cafetería. Buen provecho."}
+		{"position":{"x":1867.2,"y":-72.0,"z":796.4}
+		, "title": "Biblioteca"
+		, "text": "Por razones de tiempo no se pudo modelar la biblioteca, la cual se econtraria frente a este punto."}
+		{"position":{"x":1025.5,"y":115.9,"z":-351.0}
+		, "title": "Director de tesis"
+		, "text": "Esta tesis fue acesorada por el profesor Fausto Abraham Jacques Garcia. Puede comunicarse con el por el correo: jacques@uaq.edu.mx"}
+		{"position":{"x":1025.5,"y":39.3,"z":-351.0}
+		, "title": "Cubiculos"
+		, "text": "En esta parte del edificio se encuentran los cubiculos de varios profesores."}
+		{"position":{"x":440.9,"y":115.0,"z":-670.9}
+		, "title": "Usos multiples"
+		, "text": "En este salon se llevan a cabo ceremonias, coloquios, anuncios, etcetera."}
+		{"position":{"x":334.0,"y":105.0,"z":-880.0}
+		, "title": "Electronica"
+		, "text": "Este laboratorio cuenta con equipo sofisticado para aleccionar a estudiantes sobre la ingeniería especializada en electronica."}
+		{"position":{"x":381.0,"y":40.4,"z":-776.0}
+		, "title": "Salones de computo"
+		, "text": "Aulas de clases con equipos de computo. Aqui se toman clases como programacion, desarrollo web y programacion de dispositivos moviles"}
+		{"position":{"x":614.0,"y":72.8,"z":90.9}
+		, "title": "Puntos de carga"
+		, "text": "Existen paredes invisibles que al contacto transladan al personaje al interior o exterior de un edificio. Este concepto fue ideado para cargar y descargar modelos."}
+		{"position":{"x":119.0,"y":76.9,"z":278.0}
+		, "title": "Salon de clases"
+		, "text": "Estas son las aulas donde se toman clases como algebra lineal, matematicas computacionales, probabilidad y estadistica, y calculo diferencial e integral."}
+		{"position":{"x":387.0,"y":168,"z":-949.0}
+		, "title": "Salon de redes"
+		, "text": "Este salon cuenta con enrutadores y conmutadores. Aqui se toman clases como redes y administracion de redes."}
+		{"position":{"x":119.0,"y":136.4,"z":278.0}
+		, "title": "Salon de clases"
+		, "text": "Estas son las aulas donde se toman clases como administracion, contabilidad y desarrollo humano."}
+		{"position":{"x":472.0,"y":136.4,"z":31.0}
+		, "title": "Mision"
+		, "text": "Formar profesionistas e investigadores en las areas de tecnologias de informacion y comunicaciones que sean competitivos y con valores eticos; capaces de impactar en su entorno mediante la aplicacion del conocimiento.."}
+		{"position":{"x":-165.0,"y":202.8,"z":269.0}
+		, "title": "Vision"
+		, "text": "Consolidar nuestro sistema educativo en las tecnologias de informacion y comunicaciones, para el desarrollo integral y profesional de nuestros estudiantes.."}
+		{"position":{"x":9.0,"y":24.2,"z":-245.9}
+		, "title": "Acerca de"
+		, "text": "Esta aplicacion fue creada en Android Studio usando el framework LibGDX. El tesista modelo y texturizo los edificios e inmuebles, programo el codigo, y compuso la musica que ameniza el recorrido. Puede comunicarse con el por el correo: higaguin123@gmail.com"}
+		{"position":{"x":515.0,"y":86.0,"z":92.0}
+		, "title": "A10"
+		, "text": ""}
+		{"position":{"x":494.0,"y":86.0,"z":119.0}
+		, "title": "A9"
+		, "text": ""}
+		{"position":{"x":340.0,"y":86.0,"z":260.0}
+		, "title": "A8"
+		, "text": ""}
+		{"position":{"x":300.0,"y":86.0,"z":283.0}
+		, "title": "A7"
+		, "text": ""}
+		{"position":{"x":108.0,"y":86.0,"z":352.0}
+		, "title": "A6"
+		, "text": ""}
+		{"position":{"x":76.0,"y":86.0,"z":355.0}
+		, "title": "A5"
+		, "text": ""}
+		{"position":{"x":-135.0,"y":86.0,"z":346.0}
+		, "title": "A4"
+		, "text": ""}
+		{"position":{"x":-173.0,"y":86.0,"z":335.0}
+		, "title": "A3"
+		, "text": ""}
+		{"position":{"x":-366.0,"y":86.0,"z":250.0}
+		, "title": "A2"
+		, "text": ""}
+		{"position":{"x":-393.0,"y":86.0,"z":231.0}
+		, "title": "A1"
+		, "text": ""}
+
+		{"position":{"x":515.0,"y":151.4,"z":92.0}
+		, "title": "A20"
+		, "text": ""}
+		{"position":{"x":494.0,"y":151.4,"z":119.0}
+		, "title": "A19"
+		, "text": ""}
+		{"position":{"x":340.0,"y":151.4,"z":260.0}
+		, "title": "A18"
+		, "text": ""}
+		{"position":{"x":300.0,"y":151.4,"z":283.0}
+		, "title": "A17"
+		, "text": ""}
+		{"position":{"x":108.0,"y":151.4,"z":352.0}
+		, "title": "A16"
+		, "text": ""}
+		{"position":{"x":76.0,"y":151.4,"z":355.0}
+		, "title": "A15"
+		, "text": ""}
+		{"position":{"x":-135.0,"y":151.4,"z":346.0}
+		, "title": "A14"
+		, "text": ""}
+		{"position":{"x":-173.0,"y":151.4,"z":335.0}
+		, "title": "A13"
+		, "text": ""}
+		{"position":{"x":-366.0,"y":151.4,"z":250.0}
+		, "title": "A12"
+		, "text": ""}
+		{"position":{"x":-393.0,"y":151.4,"z":231.0}
+		, "title": "A11"
+		, "text": ""}
+
+		{"position":{"x":340.0,"y":222.8,"z":260.0}
+		, "title": "A26"
+		, "text": ""}
+		{"position":{"x":300.0,"y":222.8,"z":283.0}
+		, "title": "A25"
+		, "text": ""}
+		{"position":{"x":108.0,"y":222.8,"z":352.0}
+		, "title": "A24"
+		, "text": ""}
+		{"position":{"x":76.0,"y":222.8,"z":355.0}
+		, "title": "A23"
+		, "text": ""}
+		{"position":{"x":-135.0,"y":222.8,"z":346.0}
+		, "title": "A22"
+		, "text": ""}
+		{"position":{"x":-173.0,"y":222.8,"z":335.0}
+		, "title": "A21"
+		, "text": ""}
+
+		{"position":{"x":397.3,"y":50.4,"z":-839}
+		, "title": "A1"
+		, "text": ""}
+		{"position":{"x":482.4,"y":50.4,"z":-944.3}
+		, "title": "A2"
+		, "text": ""}
+		{"position":{"x":562.0,"y":50.4,"z":-1042.6}
+		, "title": "A3"
+		, "text": ""}
+		{"position":{"x":641.1,"y":50.4,"z":-1146.8}
+		, "title": "A4"
+		, "text": ""}
+		{"position":{"x":676.2,"y":50.4,"z":-1119.2}
+		, "title": "A5"
+		, "text": ""}
+		{"position":{"x":595.2,"y":50.4,"z":-1020.0}
+		, "title": "A6"
+		, "text": ""}
+		{"position":{"x":513.5,"y":50.4,"z":-916.4}
+		, "title": "A7"
+		, "text": ""}
+		{"position":{"x":426.7,"y":50.4,"z":-807.9}
+		, "title": "A8"
+		, "text": ""}
+	]
+}
